@@ -19,7 +19,7 @@ Coleção de skills de interface (UI/UX) para Claude Code, Codex e Cursor.
 ## Instalação
 
 ```bash
-git clone <url-deste-repo> ~/ui-ux-skills
+git clone https://github.com/eustudiox/ui-ux-skills.git ~/ui-ux-skills
 cp -R ~/ui-ux-skills/skills/* ~/.claude/skills/
 ```
 
